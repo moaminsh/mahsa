@@ -1,0 +1,6 @@
+{
+  "name": "Mahsa",
+  "description": "Personal portfolio and creative profile for Mahsa",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
